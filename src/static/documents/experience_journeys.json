@@ -1,0 +1,228 @@
+{
+  "family": {
+    "title": "The Martinez Family",
+    "subtitle": "Family Adventure in Tamarindo",
+    "description": "A family of 4 from Toronto seeks a seamless and fun 10-day vacation in a Tamarindo villa, balancing relaxation for the parents with engaging activities for the kids (ages 8 and 12).",
+    "persona_image": "family_persona.png",
+    "total_days": 10,
+    "total_spend_customer": 1615,
+    "total_cost_mr_wright": 1035,
+    "total_profit": 580,
+    "overall_margin": 0.359,
+    "touchpoints": [
+      {
+        "day": 0,
+        "stage": "Pre-Arrival",
+        "title": "Booking & Planning",
+        "customer_action": "Books services online, provides flight details and grocery list.",
+        "mr_wright_action": "Confirms booking, assigns agent, coordinates with partners.",
+        "cost": 0,
+        "price": 0,
+        "emotion": 4,
+        "emotion_label": "Excited"
+      },
+      {
+        "day": 1,
+        "stage": "Arrival",
+        "title": "SJO Airport Transfer",
+        "customer_action": "Arrives tired after a long flight with kids and luggage.",
+        "mr_wright_action": "Greets family with a sign, handles all luggage, provides snacks and Wi-Fi in a comfortable SUV.",
+        "cost": 300,
+        "price": 500,
+        "emotion": 5,
+        "emotion_label": "Relieved"
+      },
+      {
+        "day": 1,
+        "stage": "Arrival",
+        "title": "Villa Check-in",
+        "customer_action": "Arrives at the villa to find it fully stocked with their requested groceries.",
+        "mr_wright_action": "Agent coordinates with grocery partner for pre-arrival delivery and stocking.",
+        "cost": 150,
+        "price": 225,
+        "emotion": 5,
+        "emotion_label": "Delighted"
+      },
+      {
+        "day": 3,
+        "stage": "Experience",
+        "title": "Surf Lessons",
+        "customer_action": "Enjoys a hassle-free surf lesson with a trusted, family-friendly instructor.",
+        "mr_wright_action": "Books and confirms lessons with a top-rated local surf school partner.",
+        "cost": 200,
+        "price": 280,
+        "emotion": 5,
+        "emotion_label": "Thrilled"
+      },
+      {
+        "day": 5,
+        "stage": "Experience",
+        "title": "Private Chef Dinner",
+        "customer_action": "Parents enjoy a gourmet dinner at their villa while the kids are entertained.",
+        "mr_wright_action": "Arranges a private chef and a vetted babysitter for the evening.",
+        "cost": 300,
+        "price": 450,
+        "emotion": 5,
+        "emotion_label": "Luxurious"
+      },
+      {
+        "day": 10,
+        "stage": "Departure",
+        "title": "Departure Transfer",
+        "customer_action": "Relaxes as the agent handles luggage and ensures a timely, stress-free trip back to SJO.",
+        "mr_wright_action": "Agent confirms pickup time, provides smooth transfer, and assists with airport check-in.",
+        "cost": 85,
+        "price": 160,
+        "emotion": 4,
+        "emotion_label": "Satisfied"
+      }
+    ]
+  },
+  "couple": {
+    "title": "The Thompsons",
+    "subtitle": "Luxury Anniversary in Papagayo",
+    "description": "A high-net-worth couple from Miami celebrating their 25th anniversary seeks ultimate luxury, privacy, and exclusive experiences during their 7-day stay at the Four Seasons Papagayo.",
+    "persona_image": "couple_persona.png",
+    "total_days": 7,
+    "total_spend_customer": 7950,
+    "total_cost_mr_wright": 5900,
+    "total_profit": 2050,
+    "overall_margin": 0.258,
+    "touchpoints": [
+      {
+        "day": 0,
+        "stage": "Pre-Arrival",
+        "title": "Personal Consultation",
+        "customer_action": "Discusses preferences for their anniversary trip with a dedicated liaison.",
+        "mr_wright_action": "Creates a personalized itinerary, securing exclusive reservations.",
+        "cost": 0,
+        "price": 0,
+        "emotion": 4,
+        "emotion_label": "Anticipation"
+      },
+      {
+        "day": 1,
+        "stage": "Arrival",
+        "title": "VIP Helicopter Transfer",
+        "customer_action": "Skips the 45-min drive and is whisked from the LIR tarmac to their resort in minutes.",
+        "mr_wright_action": "Coordinates seamless transfer from private jet to a waiting helicopter.",
+        "cost": 2200,
+        "price": 2800,
+        "emotion": 5,
+        "emotion_label": "Exhilarated"
+      },
+      {
+        "day": 3,
+        "stage": "Experience",
+        "title": "Private Yacht Charter",
+        "customer_action": "Spends the day on a private 50-foot yacht, snorkeling in secluded coves.",
+        "mr_wright_action": "Charters a premium yacht with a full crew and gourmet catering through a Tier 1 partner.",
+        "cost": 3500,
+        "price": 4500,
+        "emotion": 5,
+        "emotion_label": "Blissful"
+      },
+      {
+        "day": 5,
+        "stage": "Experience",
+        "title": "Exclusive Dinner",
+        "customer_action": "Dines at a chef's table experience, typically booked months in advance.",
+        "mr_wright_action": "Leverages a personal relationship with the restaurateur to secure the reservation.",
+        "cost": 100,
+        "price": 300,
+        "emotion": 5,
+        "emotion_label": "Privileged"
+      },
+      {
+        "day": 7,
+        "stage": "Departure",
+        "title": "Seamless Departure",
+        "customer_action": "Enjoys a final breakfast as their luggage is discreetly handled and transported.",
+        "mr_wright_action": "Coordinates luggage transfer and a luxury SUV for the short trip back to LIR.",
+        "cost": 100,
+        "price": 350,
+        "emotion": 4,
+        "emotion_label": "Content"
+      }
+    ]
+  },
+  "solo": {
+    "title": "Sarah the Explorer",
+    "subtitle": "Digital Nomad's Adventure",
+    "description": "A solo digital nomad in her late 20s embarks on a 14-day multi-destination journey, seeking authentic experiences, reliable logistics, and local insights in La Fortuna, Monteverde, and Santa Teresa.",
+    "persona_image": "solo_persona.png",
+    "total_days": 14,
+    "total_spend_customer": 1075,
+    "total_cost_mr_wright": 690,
+    "total_profit": 385,
+    "overall_margin": 0.358,
+    "touchpoints": [
+      {
+        "day": 1,
+        "stage": "Arrival",
+        "title": "Logistics Setup",
+        "customer_action": "Lands at SJO, receives a local eSIM and a clear itinerary for her multi-leg trip.",
+        "mr_wright_action": "Agent provides an eSIM and a welcome packet with all tickets and confirmations.",
+        "cost": 40,
+        "price": 75,
+        "emotion": 4,
+        "emotion_label": "Prepared"
+      },
+      {
+        "day": 2,
+        "stage": "Transfer",
+        "title": "Luggage Forwarding",
+        "customer_action": "Travels light on a shuttle to La Fortuna while her large suitcase is securely transported ahead.",
+        "mr_wright_action": "Uses a trusted luggage partner to move the main bag to her next hotel.",
+        "cost": 50,
+        "price": 90,
+        "emotion": 5,
+        "emotion_label": "Liberated"
+      },
+      {
+        "day": 4,
+        "stage": "Experience",
+        "title": "Volcano Hike",
+        "customer_action": "Joins a small-group guided hike to the Arenal Volcano, booked seamlessly.",
+        "mr_wright_action": "Books a highly-rated local guide, avoiding tourist traps.",
+        "cost": 80,
+        "price": 120,
+        "emotion": 5,
+        "emotion_label": "Awestruck"
+      },
+      {
+        "day": 7,
+        "stage": "Transfer",
+        "title": "Complex Transfer",
+        "customer_action": "Navigates the tricky Jeep-Boat-Jeep route to Monteverde without stress.",
+        "mr_wright_action": "Arranges all legs of the transfer with reliable partners, ensuring smooth connections.",
+        "cost": 120,
+        "price": 190,
+        "emotion": 5,
+        "emotion_label": "Efficient"
+      },
+      {
+        "day": 10,
+        "stage": "Experience",
+        "title": "Local Insight",
+        "customer_action": "Gets a WhatsApp tip for a hidden waterfall near Santa Teresa from her agent.",
+        "mr_wright_action": "Agent provides proactive, personalized recommendations based on her interests.",
+        "cost": 0,
+        "price": 0,
+        "emotion": 5,
+        "emotion_label": "Inspired"
+      },
+      {
+        "day": 14,
+        "stage": "Departure",
+        "title": "Final Leg",
+        "customer_action": "Takes a pre-booked shuttle from Santa Teresa to a local airport for a domestic flight to SJO.",
+        "mr_wright_action": "Coordinates the final, complex departure logistics, ensuring on-time arrival.",
+        "cost": 400,
+        "price": 600,
+        "emotion": 4,
+        "emotion_label": "Grateful"
+      }
+    ]
+  }
+}

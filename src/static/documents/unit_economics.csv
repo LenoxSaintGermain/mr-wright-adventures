@@ -1,0 +1,9 @@
+Service,Price (USD),Total Cost (USD),Gross Profit (USD),Gross Margin (%),Labor Cost,Fuel Cost,Platform Fee,Insurance,Other Costs
+Airport Transfer (Economy),75,50,25,33.33333333333333,30,10,5,3,2
+Airport Transfer (Comfort),125,75,50,40.0,45,12,8,5,5
+Airport Transfer (VIP),200,115,85,42.5,70,15,12,8,10
+Helicopter Transfer,800,550,250,31.25,200,150,50,80,70
+Concierge (Grocery/Pharmacy),40,25,15,37.5,15,5,3,1,1
+Concierge (Medical Support),100,65,35,35.0,40,8,7,5,5
+Tour/Excursion (Half-Day),150,100,50,33.33333333333333,60,15,10,8,7
+Tour/Excursion (Full-Day),250,162,88,35.199999999999996,100,25,15,12,10

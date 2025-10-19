@@ -1,0 +1,85 @@
+{
+  "$10K": {
+    "amount": 10000,
+    "deployment": {
+      "Marketing & Customer Acquisition": 4000,
+      "Technology Enhancement": 2000,
+      "Field Equipment & Branding": 2000,
+      "Working Capital Reserve": 2000
+    },
+    "timeline_months": 3,
+    "expected_bookings_month": 25,
+    "avg_booking_value": 150,
+    "gross_margin": 0.36,
+    "monthly_revenue": 3750,
+    "monthly_gross_profit": 1350,
+    "breakeven_months": 7.4,
+    "roi_12_months": 0.62,
+    "risk_level": "Low-Medium",
+    "best_for": "Proof of concept, testing market fit",
+    "game_theory_position": "Conservative Play - Minimize downside risk"
+  },
+  "$20K": {
+    "amount": 20000,
+    "deployment": {
+      "Marketing & Customer Acquisition": 7000,
+      "Technology Enhancement": 4000,
+      "Partnership Development": 3000,
+      "Team Expansion (Part-time agents)": 4000,
+      "Working Capital Reserve": 2000
+    },
+    "timeline_months": 6,
+    "expected_bookings_month": 50,
+    "avg_booking_value": 160,
+    "gross_margin": 0.36,
+    "monthly_revenue": 8000,
+    "monthly_gross_profit": 2880,
+    "breakeven_months": 6.9,
+    "roi_12_months": 1.04,
+    "risk_level": "Medium",
+    "best_for": "Establish market presence, build partnerships",
+    "game_theory_position": "Balanced Strategy - Optimize risk/reward"
+  },
+  "$30K": {
+    "amount": 30000,
+    "deployment": {
+      "Marketing & Customer Acquisition": 10000,
+      "Technology Enhancement": 6000,
+      "Partnership Development": 4000,
+      "Team Expansion (2 full-time agents)": 7000,
+      "Working Capital Reserve": 3000
+    },
+    "timeline_months": 9,
+    "expected_bookings_month": 80,
+    "avg_booking_value": 165,
+    "gross_margin": 0.37,
+    "monthly_revenue": 13200,
+    "monthly_gross_profit": 4884,
+    "breakeven_months": 6.1,
+    "roi_12_months": 1.47,
+    "risk_level": "Medium",
+    "best_for": "Scale operations, capture market share",
+    "game_theory_position": "Growth Play - Maximize market capture"
+  },
+  "$50K": {
+    "amount": 50000,
+    "deployment": {
+      "Marketing & Customer Acquisition": 15000,
+      "Technology Enhancement (AI, automation)": 10000,
+      "Partnership Development": 6000,
+      "Team Expansion (4 full-time agents + ops manager)": 14000,
+      "Working Capital Reserve": 5000
+    },
+    "timeline_months": 12,
+    "expected_bookings_month": 130,
+    "avg_booking_value": 170,
+    "gross_margin": 0.38,
+    "monthly_revenue": 22100,
+    "monthly_gross_profit": 8398,
+    "breakeven_months": 5.9,
+    "roi_12_months": 2.01,
+    "risk_level": "Medium-High",
+    "best_for": "Dominant market position, sustainable operations",
+    "game_theory_position": "Aggressive Expansion - First-mover advantage"
+  }
+}
