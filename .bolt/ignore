@@ -1,0 +1,60 @@
+# Bolt.new Ignore File
+# Excludes files/folders from AI context window processing
+
+# Python virtual environment (largest directory - ~25MB)
+venv/
+ENV/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+src/database/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+logs/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git directory (not needed for code analysis)
+.git/
+
+# Documentation that doesn't need AI analysis
+*.md
+!README.md
+!IMAGE_CDN_URLS.md
+
+# JSON data files (already analyzed)
+*.json
+
+# CSV files (data only)
+*.csv
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
